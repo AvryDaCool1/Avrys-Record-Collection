@@ -1,0 +1,37 @@
+.heading{
+text-align: center;
+font-size: 75px;
+font-family: Arial, Helvetica, sans-serif;
+color: antiquewhite;
+
+}
+
+.card{
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: antiquewhite;
+
+}
+
+h2{
+
+font-size: 50px;
+
+}
+
+h5{
+
+font-size: 25px;
+
+
+}
+
+
+body{
+
+
+background-color: rgba(0, 0, 0, 0.925);
+
+}
+
